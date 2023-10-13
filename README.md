@@ -1,5 +1,5 @@
 # 💫 About Me:
-A highly motivated and eager student of B.Sc CSIT 8th semester with a passion for learning new technologies.I enjoy developing web applications and currently exploring the world of mobile applications. When I'm not coding or studying, I'm usually playing guitar and making music.
+A highly motivated and eager student of B.Sc CSIT 8th semester with a passion for learning new technologies.I enjoy developing web applications and currently exploring the world of mobile applications.
 
 
 ## 🌐 Socials:
