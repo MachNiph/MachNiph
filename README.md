@@ -1,8 +1,11 @@
 # 💫 About Me:
-👨‍🎓 CSIT graduate with a strong foundation in computer science and IT.
-💼 Frontend web developer with a focus on creating seamless, user-friendly web applications.
-🚀 Committed to staying up-to-date with the latest web technologies and best practices.
-💡 Enthusiastic problem solver with a keen eye for detail and design.
+<ul>
+  <li>👨‍🎓CSIT graduate with a strong foundation in computer science and IT. </li>
+   <li>💼Frontend web developer with a focus on creating seamless, user-friendly web applications. </li>
+   <li>🚀Committed to staying up-to-date with the latest web technologies and best practices.</li>
+   <li>💡Enthusiastic problem solver with a keen eye for detail and design.</li>
+</ul>
+
 
 
 ## 🌐 Socials:
